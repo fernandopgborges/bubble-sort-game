@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Item",
-    "path":"sprites/spr_Item/spr_Item.yy",
+    "name":"spr_Montanha",
+    "path":"sprites/spr_Montanha/spr_Montanha.yy",
   },
   "spriteMaskId":null,
   "visible":true,
